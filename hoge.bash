@@ -2,5 +2,3 @@
 
 echo hoge
 echo hoge
-
-
